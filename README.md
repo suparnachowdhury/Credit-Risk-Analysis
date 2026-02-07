@@ -125,6 +125,7 @@ pythonXGBClassifier(
 
 
 ### Power BI Dashboard
+Live Report: https://app.powerbi.com/view?r=eyJrIjoiYTQwODJhOWMtYjlhZS00NmM4LWJhYTQtNThhYTU5ZGFhODk3IiwidCI6ImRiMjMwNmZkLWFmMjUtNGUyOS05Y2NiLWJmMjg2YWY2MjFjMCJ9
 #### Dashboard Pages
 **1. Overview**
 

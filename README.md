@@ -132,6 +132,14 @@ Live Report: https://app.powerbi.com/view?r=eyJrIjoiYTQwODJhOWMtYjlhZS00NmM4LWJh
 Portfolio KPIs: Total loans, default rate, average interest
 Loan distribution by purpose, country, risk category
 Loan size vs. default rate analysis
+### Overview Page
+![Dashboard Overview](Report Pages/Overview.png)
+
+### Client Insights
+![Client Insights](images/client_insights.png)
+
+### Risk Analysis
+![Risk Analysis](images/risk_analysis.png)
 
 **2. Client Insights**
 

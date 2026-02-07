@@ -132,14 +132,7 @@ Live Report: https://app.powerbi.com/view?r=eyJrIjoiYTQwODJhOWMtYjlhZS00NmM4LWJh
 Portfolio KPIs: Total loans, default rate, average interest
 Loan distribution by purpose, country, risk category
 Loan size vs. default rate analysis
-### Overview Page
-![Dashboard Overview](Report Pages/Overview.png)
 
-### Client Insights
-![Client Insights](images/client_insights.png)
-
-### Risk Analysis
-![Risk Analysis](images/risk_analysis.png)
 
 **2. Client Insights**
 
@@ -217,31 +210,7 @@ Open Power BI Dashboard
 Open credit_risk_dashboard.pbix in Power BI Desktop
 Refresh data connections if needed
 
-Project Structure
-credit-risk-prediction/
-│
-├── data/
-│   └── Credit_Risk_Dataset.xlsx          # Raw dataset
-│
-├── notebooks/
-│   └── credit_risk_analysis.ipynb        # Main analysis notebook
-│
-├── dashboards/
-│   └── credit_risk_dashboard.pbix        # Power BI file
-│
-├── images/
-│   ├── dashboard_overview.png
-│   ├── client_insights.png
-│   └── risk_analysis.png
-│
-├── models/
-│   └── xgboost_model.pkl                 # Saved model (optional)
-│
-├── requirements.txt                       # Python dependencies
-└── README.md                              # This file
-
 ### Project Structure
-
 ```
 credit-risk-prediction/
 │
@@ -250,23 +219,19 @@ credit-risk-prediction/
 │
 ├── notebooks/
 │   └── credit_risk_analysis.ipynb        # Main analysis notebook
+
 │
-├── dashboards/
-│   └── credit_risk_dashboard.pbix        # Power BI file
-│
-├── images/
+├── Report Pages/
 │   ├── dashboard_overview.png
 │   ├── client_insights.png
 │   └── risk_analysis.png
+               # Saved model (optional)
 │
-├── models/
-│   └── xgboost_model.pkl                 # Saved model (optional)
-│
-├── requirements.txt                       # Python dependencies
 └── README.md                              # This file
-```
 
----
+
+
+```
 
 ## 📊 Key Insights & Recommendations
 

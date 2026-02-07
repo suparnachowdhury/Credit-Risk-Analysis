@@ -189,26 +189,24 @@ Prerequisites
 bashPython 3.8+
 Jupyter Notebook
 Power BI Desktop (for dashboard)
-Installation
 
-Clone the repository
-
-bashgit clone https://github.com/yourusername/credit-risk-prediction.git
-cd credit-risk-prediction
-
-Install dependencies
-
-bashpip install -r requirements.txt
-
-Run the Jupyter Notebook
-
-bashjupyter notebook credit_risk_analysis.ipynb
-
-Open Power BI Dashboard
+### Installation
 
 
-Open credit_risk_dashboard.pbix in Power BI Desktop
-Refresh data connections if needed
+1. **Clone the repository**
+```bash
+git clone https://github.com/yourusername/Credit-Risk-Analysis.git
+cd Credit-Risk-Analysis
+```
+
+2. **Run the Jupyter Notebook**
+```bash
+jupyter notebook credit_risk_analysis.ipynb
+```
+
+3. **Open Power BI Dashboard**
+- Open `credit_risk_dashboard.pbix` in Power BI Desktop
+- Refresh data connections if needed
 
 ### Project Structure
 ```

@@ -233,7 +233,7 @@ credit-risk-prediction/
 
 ```
 
-## 📊 Key Insights & Recommendations
+## Key Insights & Recommendations
 
 ### Business Recommendations
 
@@ -261,7 +261,7 @@ credit-risk-prediction/
 
 ---
 
-## 📉 Model Limitations & Future Work
+## Model Limitations & Future Work
 
 ### Current Limitations
 - Imbalanced dataset (78% non-default, 22% default)
@@ -298,7 +298,7 @@ credit-risk-prediction/
 ### License
 This project is licensed under the MIT License - see the LICENSE file for details.
 
-👤 Author
+### 👤 Author
 Suparna Chowdhury
 
 GitHub:[ @suparnachowdhury](https://github.com/suparnachowdhury)
@@ -306,14 +306,14 @@ LinkedIn: www.linkedin.com/in/suparna-chowdhury
 Portfolio: [yourportfolio.com](https://suparnachowdhury.github.io/home)
 
 
-🙏 Acknowledgments
+### Acknowledgments
 
 Dataset: [Onyx Data - September 2025 Challenge]
 Inspiration: Real-world credit risk management practices
 Tools: scikit-learn, XGBoost, Power BI communities
 
 
-📧 Contact
+### Contact
 For questions or collaboration opportunities:
 
 Email: suparna.chowdhury.data@gmail.com
